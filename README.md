@@ -4,4 +4,4 @@
 🎓 Double majored in MIS and Statistics
 💻 Learning R, Python, Java, and SQL
 
-![Python](https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-#EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:donumm64@gmail.com)]
