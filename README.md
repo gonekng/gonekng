@@ -4,4 +4,4 @@
 🎓 Double majored in MIS and Statistics
 💻 Learning R, Python, Java, and SQL
 
-![Gmail](https://img.shields.io/badge/Gmail-#EA4335?logo=Gamil&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail--#EA4335?logo=Gamil&logoColor=white)
