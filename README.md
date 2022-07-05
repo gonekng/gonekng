@@ -1,7 +1,7 @@
 ### Welcome to Jiwon's Github! 👋
 
-:mortar_board: BIS from HUFS  
-:mortar_board: Double majored in MIS and Statistics  
+:mortar_board: BIS from Hankuk University of Foreign Studies
+:mortar_board: Double majored in Management Information System and Statistics
 :computer: Learning R, Python, Java, and SQL  
 
 <div align = left>
