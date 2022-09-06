@@ -1,6 +1,6 @@
 <div align = center>
   
-## Welcome to Jiwon's Github! 👋
+### Welcome to Jiwon's Github! 👋
 
 :mortar_board: Bachelor of MIS from HUFS   
 :mortar_board: Double majored in MIS and Statistics   
