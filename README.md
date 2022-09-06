@@ -3,7 +3,7 @@
 ### Welcome to Jiwon's Github! 👋
 
 :mortar_board: Bachelor of MIS from HUFS   
-:mortar_board: Double majored in MIS and Statistics   
+:pen: Double majored in MIS and Statistics   
 :computer: Learning R, Python, Java, and SQL  
 
 
